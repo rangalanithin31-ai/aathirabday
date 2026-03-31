@@ -22,7 +22,7 @@ let settings = {
         { image: './image/Birthday!/photo6.jpg', content: 'May all your dreams come true! ⭐' },
         { image: './image/Birthday!/photo7.jpg', content: 'You deserve all the happiness! 🌈' },
         { image: './image/Birthday!/photo8.jpg', content: 'Love you so much! Have the best day! ❤️🎂' },
-        { image: './image/Birthday!/9.jpg', content: '' } // End cover
+        { image: './image/Birthday!/lastpage.jpg', content: '' } // End cover
     ],
     enableBook: true,
     enableHeart: true,
